@@ -44,7 +44,7 @@
                     <v-icon left color="white">
                       mdi-phone
                     </v-icon>  
-                    <b>Telefone / WhatsApp</b><br/> <a href="tel:+55-11-97096-2710" style="color:#FFFFFF">(11) 97096-2710</a> <br/><br/></p>
+                    <b>Telefone / WhatsApp</b><br/> <a href="tel:+55-11-97096-2710" style="color:#FFFFFF">(11) 97096-2710</a> / <a href="tel:+55-11-94930-9390" style="color:#FFFFFF">(11) 94930-9390</a></p>
                   </div>
                 
               

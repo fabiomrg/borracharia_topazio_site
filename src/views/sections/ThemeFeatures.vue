@@ -158,29 +158,11 @@
         
         },
 
-        {      
-          title: 'Mecânica em geral',
-          icon: 'mdi-tools',
-          text:'Serviços gerais de mecânica. Traga seu carro para uma avaliação.'
-        
-        },
-    
+  
         {
           title: 'Borracharia',
           icon: 'mdi-tire',
           text:'Fazemos o melhor para que os pneus de seu carro estejam prontos para o dia a dia ou estrada.'
-        },
-          {
-          title: 'Auto elétrica',
-          icon: 'mdi-lightning-bolt',
-          text: 'Serviços de elétrica automotiva em geral. Se percebeu algo estranho, não exite e traga para fazermos uma avaliação.'
-
-        },
-        {
-          title: 'Balanceamento',
-          icon: 'mdi-road-variant',
-          text: 'Desconforto ao dirigir? Direção tremendo? Utilize seu carro de forma prazerosa com os pneus corretamente balanceados.'
-
         },
         
         {
@@ -198,9 +180,9 @@
         },
 
         {
-          title: 'Pneus novos e usados',
+          title: 'Pneus meia-vida',
           icon: 'mdi-tire',
-          text: 'Venha escolher seu pneu novo ou mesmo a troca por um usado em boas condições. Passe por uma análise com nossa equipe.'
+          text: 'Venha escolher seu pneu meia vida em boas condições. Passe por uma análise com nossa equipe.'
 
         },
         

@@ -24,7 +24,8 @@
             <base-body >
               <p class="text-white">Prontos para atendê-los!</p>
               <p class="text-white">Atendemos de segunda à sábado das 08h às 22h. Domingos e feriados das 9h às 16h.</p> 
-              <p class="text-white">Trabalhamos com diversos serviços: mecânica em geral, borracharia, auto elétrica, balanceamento, baterias, lampadas, pneus novos e usados, vulcanização de pneus cortados.</p>
+              <p class="text-white">Fazemos auto socorro.</p> 
+              <p class="text-white">Trabalhamos com diversos serviços: Borracharia em geral, vulcanização de pneus cortados, venda de pneus meia vida, troca de lâmpadas e baterias.</p>
               <p class="text-white">Cuide de seu carro. Sua segurança e da sua família sempre em dia! </p>
               <p class="text-white">Estamos sempre ao seu lado! </p>
               <p class="text-white">Equipe Topázio Borracharia </p>
